@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Koti\.android\build-cache\4ac514bc17edcdef293613707ac712efb4efc137\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\practice\Androids\FemaleSecurity-master\app\build\intermediates\pre-dexed\debug\classes_86aad1400c02f86f7c0df1e576c33354e889a94c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Koti\.android\build-cache\ee1e1630dfd85e18be8b2b4b38ef55cac4272ab4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="E:\practice\Androids\FemaleSecurity-master\app\build\intermediates\pre-dexed\debug\classes_b8f10cdaeae515498aaaa803d331a6efc6ea6d87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Koti\.android\build-cache\d9016e02dfb9317ce99044096342e34e26026193\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="E:\practice\Androids\FemaleSecurity-master\app\build\intermediates\pre-dexed\debug\classes_4b0b6f6b86610b086a0ea2e2aa379518b1bbc342.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Koti\.android\build-cache\e3e01481fc096c2ced3d989ccdde498683df5e8a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="E:\practice\Androids\FemaleSecurity-master\app\build\intermediates\pre-dexed\debug\classes_8fe75f9b56832c13faafd3fc5b99ddf631bdf367.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Koti\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\practice\Androids\FemaleSecurity-master\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_44da2834672e565958d892f56661dda005358f37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Koti\.android\build-cache\db324abe74f45012568e99a01025c8caf79ce5af\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="E:\practice\Androids\FemaleSecurity-master\app\build\intermediates\pre-dexed\debug\classes_2f3676b04345af0d074aee0d80620b4de80df592.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Koti\.android\build-cache\158e08d2683a405717bfffae0fb00bbd8f85cf2d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="E:\practice\Androids\FemaleSecurity-master\app\build\intermediates\pre-dexed\debug\classes_430a62ccbfafab552514edd051a436b052dbebf3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Koti\.android\build-cache\383b0d546752c6638e6c58a19374b79a76af43e4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="E:\practice\Androids\FemaleSecurity-master\app\build\intermediates\pre-dexed\debug\classes_358d07ac31735d001ffe2cabc0ae757ad1babc51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Koti\.android\build-cache\cd6cd9588b44276b16c8dda8d2bd00327ec6c4e9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="E:\practice\Androids\FemaleSecurity-master\app\build\intermediates\pre-dexed\debug\classes_de08d54141bbf47dc236d62501c3d3196ef21ee7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Koti\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="E:\practice\Androids\FemaleSecurity-master\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_56d08f98a299d2fedd6a0147367bce83765a6c89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Koti\.android\build-cache\ffaf1cecde0a87165c31a1c9cde9566fa2c97206\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\practice\Androids\FemaleSecurity-master\app\build\intermediates\pre-dexed\debug\classes_0c116277ce5991e97faf392f32f0c4c506e7bb69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Koti\.android\build-cache\f87ab163b4ba7fc34615d165ce5440b7e4ed1443\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="E:\practice\Androids\FemaleSecurity-master\app\build\intermediates\pre-dexed\debug\classes_702ee6a068a7ad9be0fa5be6a276e29f45b7b1f0.jar" />
+    </item>
+
+</items>

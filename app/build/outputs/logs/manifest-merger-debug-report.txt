@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\practice\Androids\FemaleSecurity-master\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from E:\practice\Androids\FemaleSecurity-master\app\src\main\AndroidManifest.xml:3:5-53
+		INJECTED from E:\practice\Androids\FemaleSecurity-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\practice\Androids\FemaleSecurity-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\practice\Androids\FemaleSecurity-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\practice\Androids\FemaleSecurity-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\practice\Androids\FemaleSecurity-master\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\practice\Androids\FemaleSecurity-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\practice\Androids\FemaleSecurity-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\practice\Androids\FemaleSecurity-master\app\src\main\AndroidManifest.xml:4:5-79
+	android:name
+		ADDED from E:\practice\Androids\FemaleSecurity-master\app\src\main\AndroidManifest.xml:4:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\practice\Androids\FemaleSecurity-master\app\src\main\AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from E:\practice\Androids\FemaleSecurity-master\app\src\main\AndroidManifest.xml:5:22-78
+uses-permission#android.permission.INTERNET
+ADDED from E:\practice\Androids\FemaleSecurity-master\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from E:\practice\Androids\FemaleSecurity-master\app\src\main\AndroidManifest.xml:6:22-64
+application
+ADDED from E:\practice\Androids\FemaleSecurity-master\app\src\main\AndroidManifest.xml:7:5-22:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Koti\.android\build-cache\f87ab163b4ba7fc34615d165ce5440b7e4ed1443\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Koti\.android\build-cache\4ac514bc17edcdef293613707ac712efb4efc137\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Koti\.android\build-cache\383b0d546752c6638e6c58a19374b79a76af43e4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Koti\.android\build-cache\158e08d2683a405717bfffae0fb00bbd8f85cf2d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Koti\.android\build-cache\db324abe74f45012568e99a01025c8caf79ce5af\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Koti\.android\build-cache\e3e01481fc096c2ced3d989ccdde498683df5e8a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Koti\.android\build-cache\ee1e1630dfd85e18be8b2b4b38ef55cac4272ab4\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Koti\.android\build-cache\d9016e02dfb9317ce99044096342e34e26026193\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Koti\.android\build-cache\cd6cd9588b44276b16c8dda8d2bd00327ec6c4e9\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Koti\.android\build-cache\ffaf1cecde0a87165c31a1c9cde9566fa2c97206\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from E:\practice\Androids\FemaleSecurity-master\app\src\main\AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from E:\practice\Androids\FemaleSecurity-master\app\src\main\AndroidManifest.xml:12:9-35
+	android:roundIcon
+		ADDED from E:\practice\Androids\FemaleSecurity-master\app\src\main\AndroidManifest.xml:11:9-54
+	android:allowBackup
+		ADDED from E:\practice\Androids\FemaleSecurity-master\app\src\main\AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from E:\practice\Androids\FemaleSecurity-master\app\src\main\AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from E:\practice\Androids\FemaleSecurity-master\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.example.varadavamsi.femalesecurity.MainActivity
+ADDED from E:\practice\Androids\FemaleSecurity-master\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from E:\practice\Androids\FemaleSecurity-master\app\src\main\AndroidManifest.xml:14:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\practice\Androids\FemaleSecurity-master\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from E:\practice\Androids\FemaleSecurity-master\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from E:\practice\Androids\FemaleSecurity-master\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\practice\Androids\FemaleSecurity-master\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from E:\practice\Androids\FemaleSecurity-master\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.example.varadavamsi.femalesecurity.setnumbers
+ADDED from E:\practice\Androids\FemaleSecurity-master\app\src\main\AndroidManifest.xml:21:9-57
+	android:name
+		ADDED from E:\practice\Androids\FemaleSecurity-master\app\src\main\AndroidManifest.xml:21:19-45
+uses-sdk
+INJECTED from E:\practice\Androids\FemaleSecurity-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Koti\.android\build-cache\f87ab163b4ba7fc34615d165ce5440b7e4ed1443\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Koti\.android\build-cache\4ac514bc17edcdef293613707ac712efb4efc137\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Koti\.android\build-cache\383b0d546752c6638e6c58a19374b79a76af43e4\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Koti\.android\build-cache\158e08d2683a405717bfffae0fb00bbd8f85cf2d\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Koti\.android\build-cache\db324abe74f45012568e99a01025c8caf79ce5af\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Koti\.android\build-cache\e3e01481fc096c2ced3d989ccdde498683df5e8a\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Koti\.android\build-cache\ee1e1630dfd85e18be8b2b4b38ef55cac4272ab4\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Koti\.android\build-cache\d9016e02dfb9317ce99044096342e34e26026193\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Koti\.android\build-cache\cd6cd9588b44276b16c8dda8d2bd00327ec6c4e9\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Koti\.android\build-cache\ffaf1cecde0a87165c31a1c9cde9566fa2c97206\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Koti\.android\build-cache\f87ab163b4ba7fc34615d165ce5440b7e4ed1443\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from E:\practice\Androids\FemaleSecurity-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\practice\Androids\FemaleSecurity-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\practice\Androids\FemaleSecurity-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\practice\Androids\FemaleSecurity-master\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Koti\.android\build-cache\f87ab163b4ba7fc34615d165ce5440b7e4ed1443\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Koti\.android\build-cache\4ac514bc17edcdef293613707ac712efb4efc137\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Koti\.android\build-cache\383b0d546752c6638e6c58a19374b79a76af43e4\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Koti\.android\build-cache\158e08d2683a405717bfffae0fb00bbd8f85cf2d\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Koti\.android\build-cache\db324abe74f45012568e99a01025c8caf79ce5af\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Koti\.android\build-cache\e3e01481fc096c2ced3d989ccdde498683df5e8a\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Koti\.android\build-cache\ee1e1630dfd85e18be8b2b4b38ef55cac4272ab4\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Koti\.android\build-cache\d9016e02dfb9317ce99044096342e34e26026193\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Koti\.android\build-cache\cd6cd9588b44276b16c8dda8d2bd00327ec6c4e9\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Koti\.android\build-cache\f87ab163b4ba7fc34615d165ce5440b7e4ed1443\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Koti\.android\build-cache\f87ab163b4ba7fc34615d165ce5440b7e4ed1443\output\AndroidManifest.xml:26:9-47

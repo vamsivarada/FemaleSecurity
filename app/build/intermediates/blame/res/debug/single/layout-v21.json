@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\practice\\Androids\\FemaleSecurity-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Koti\\.android\\build-cache\\f87ab163b4ba7fc34615d165ce5440b7e4ed1443\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\practice\\Androids\\FemaleSecurity-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Koti\\.android\\build-cache\\f87ab163b4ba7fc34615d165ce5440b7e4ed1443\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\practice\\Androids\\FemaleSecurity-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Koti\\.android\\build-cache\\f87ab163b4ba7fc34615d165ce5440b7e4ed1443\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\practice\\Androids\\FemaleSecurity-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Koti\\.android\\build-cache\\f87ab163b4ba7fc34615d165ce5440b7e4ed1443\\output\\res\\layout-v21\\notification_action.xml"
+    }
+]
